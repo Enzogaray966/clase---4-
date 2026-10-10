@@ -12,7 +12,7 @@
   
 ---
 
-Adjunto link NETLIFY [[INDICADORES](https://app.netlify.com/projects/chic-youtiao-88d9df/overview)]
+Adjunto link NETLIFY [[INDICADORES](https://chic-youtiao-88d9df.netlify.app/)]
 
 Si no logro conectar con Netlify habilito la posibilidad de adjuntar archivo generado en Claude.
 Adjunto en este repositorio. adjunto link (https://app.netlify.com/projects/chic-youtiao-88d9df/overview) 
